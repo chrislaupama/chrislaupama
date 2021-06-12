@@ -2,7 +2,7 @@
 - 👀 I’m interested in music, nocode and tech
 - 🌱 I’m currently learning Flutter and Swift
 - 💞️ I’m looking to collaborate on empowering others to create
-- 📫 How to reach me @chrislaupama on all social media
+- 📫 @chrislaupama on all social media
 
 <!---
 chrislaupama/chrislaupama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
