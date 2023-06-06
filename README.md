@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrislaupama
 - 👀 I’m interested in music, nocode and tech
-- 🌱 I’m currently learning Flutter and Swift
+- 🌱 I’m currently learning SvelteKit
 - 💞️ I’m looking to collaborate on empowering others to create
 - 📫 @chrislaupama on all social media
 
