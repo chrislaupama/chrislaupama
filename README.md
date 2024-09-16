@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chrislaupama
-- 👀 I’m interested in prudcing music, developing applications and experimenting with AI
-- 🌱 I’m always learning and building - currently playing with NextJS and React Native
+- 👀 I’m interested in prodcing music, developing applications and experimenting with AI
+- 🌱 I’m always learning and building - currently playing with A.I 
 - 💞️ I’m looking to collaborate on empowering others to create
 - 📫 @chrislaupama on all social media
 
