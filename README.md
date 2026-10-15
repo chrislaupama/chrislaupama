@@ -24,7 +24,7 @@ I'm Chris. I build music software, explore what AI can do inside creative tools,
       <p><a href="https://github.com/chrislaupama/nota"><b>My work on Nota →</b></a><br><a href="https://github.com/nota-daw/nota">Upstream project</a> · <a href="https://nota-daw.github.io/nota-site/">Explore Nota</a></p>
     </td>
     <td width="58%" valign="middle">
-      <a href="https://github.com/chrislaupama/nota"><img src="assets/nota-arrangement.webp" width="580" alt="Nota's audio and MIDI arrangement with synthesizers, EQ, and effects."></a>
+      <a href="https://github.com/chrislaupama/nota"><img src="assets/nota-studio-dark.webp" width="580" alt="Nota Studio Dark from my Studio update PR: arrangement, browser categories, synthesizer, and EQ."></a>
     </td>
   </tr>
   <tr>
