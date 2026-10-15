@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Chris Laupama — Sound. Software. Forward motion.</title>
+<desc id="desc">A dark banner with orange, gold and lime signal lines representing Saine, Nota and RISN.</desc>
+<rect width="1200" height="380" rx="16" fill="#151719"/>
+<path d="M820 0V380M900 0V380M980 0V380M1060 0V380M1140 0V380M760 76H1200M760 152H1200M760 228H1200M760 304H1200" stroke="#26292C"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="54" y="62" fill="#BEC2C6" font-size="18" letter-spacing="3">CHRIS LAUPAMA</text>
+<g fill="#F5F4EF" font-size="68" font-weight="700" letter-spacing="-2"><text x="50" y="149">Sound. Software.</text><text x="50" y="226">Forward motion.</text></g>
+<text x="54" y="273" fill="#A6ABB1" font-size="22">Building tools to create and keep moving.</text>
+<g fill="#E5E7E9" font-size="17"><text x="77" y="336">Saine</text><text x="197" y="336">Nota</text><text x="310" y="336">RISN</text></g>
+</g>
+<circle cx="60" cy="330" r="5" fill="#FFA414"/><circle cx="180" cy="330" r="5" fill="#D9A13F"/><circle cx="293" cy="330" r="5" fill="#E8FF86"/>
+<path d="M810 113C835 113 835 68 860 68S885 158 910 158 935 68 960 68 985 158 1010 158 1035 68 1060 68 1085 113 1110 113H1150" stroke="#FFA414" stroke-width="5" stroke-linecap="round"/>
+<path d="M810 205H853V187H900V219H947V187H994V205H1041V181H1088V205H1150" stroke="#D9A13F" stroke-width="5" stroke-linejoin="round"/>
+<path d="M810 308H880L915 281 953 293 1006 248 1040 263 1110 228H1150" stroke="#E8FF86" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1150" cy="113" r="6" fill="#FFA414"/><circle cx="1150" cy="205" r="6" fill="#D9A13F"/><circle cx="1150" cy="228" r="6" fill="#E8FF86"/>
+</svg>
