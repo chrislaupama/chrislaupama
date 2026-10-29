@@ -19,12 +19,12 @@ I'm Chris. I build music software, explore what AI can do inside creative tools,
   <tr>
     <td width="42%" valign="middle">
       <sub>DESKTOP MUSIC STUDIO · OPEN SOURCE</sub>
-      <h3><a href="https://github.com/chrislaupama/nota">Nota ↗</a></h3>
+      <h3><a href="https://github.com/nota-daw/nota">Nota ↗</a></h3>
       <p>A free studio for macOS, Windows, and Linux. Arrangement, clip launching, modular modulation, and plugins. No subscription. No account.</p>
-      <p><a href="https://github.com/chrislaupama/nota"><b>My work on Nota →</b></a><br><a href="https://github.com/nota-daw/nota">Upstream project</a> · <a href="https://nota-daw.github.io/nota-site/">Explore Nota</a></p>
+      <p><a href="https://github.com/nota-daw/nota"><b>My work on Nota →</b></a><br><a href="https://github.com/nota-daw/nota">Upstream project</a> · <a href="https://nota-daw.github.io/nota-site/">Explore Nota</a></p>
     </td>
     <td width="58%" valign="middle">
-      <a href="https://github.com/chrislaupama/nota"><img src="assets/nota-studio-dark.webp" width="580" alt="Nota Studio Dark from my Studio update PR: arrangement, browser categories, synthesizer, and EQ."></a>
+      <a href="[https://github.com/chrislaupama/nota](https://github.com/nota-daw/nota)"><img src="assets/nota-studio-dark.webp" width="580" alt="Nota Studio Dark from my Studio update PR: arrangement, browser categories, synthesizer, and EQ."></a>
     </td>
   </tr>
   <tr>
