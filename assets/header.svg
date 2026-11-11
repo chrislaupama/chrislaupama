@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Chris Laupama — Sound. Software. Forward motion.</title>
+<desc id="desc">A dark banner with blue, lime, orange and gold signal lines representing Device, RISN, Saine and Nota.</desc>
+<rect width="1200" height="380" rx="16" fill="#151719"/>
+<path d="M820 0V380M900 0V380M980 0V380M1060 0V380M1140 0V380M760 76H1200M760 152H1200M760 228H1200M760 304H1200" stroke="#26292C"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="54" y="62" fill="#BEC2C6" font-size="18" letter-spacing="3">CHRIS LAUPAMA</text>
+<g fill="#F5F4EF" font-size="68" font-weight="700" letter-spacing="-2"><text x="50" y="149">Sound. Software.</text><text x="50" y="226">Forward motion.</text></g>
+<text x="54" y="273" fill="#A6ABB1" font-size="22">Building tools to create and keep moving.</text>
+<g fill="#E5E7E9" font-size="17"><text x="77" y="336">Device</text><text x="182" y="336">RISN</text><text x="277" y="336">Saine</text><text x="377" y="336">Nota</text></g>
+</g>
+<circle cx="60" cy="330" r="5" fill="#4C7DFF"/><circle cx="165" cy="330" r="5" fill="#E8FF86"/><circle cx="260" cy="330" r="5" fill="#FFA414"/><circle cx="360" cy="330" r="5" fill="#D9A13F"/>
+<path d="M810 70Q835 34 860 70T910 70 960 70 1010 70 1060 70 1110 70H1150" stroke="#4C7DFF" stroke-width="5" stroke-linecap="round"/>
+<path d="M810 182H880L915 160 953 170 1006 133 1040 145 1110 118H1150" stroke="#E8FF86" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M810 232C835 232 835 202 860 202S885 262 910 262 935 202 960 202 985 262 1010 262 1035 202 1060 202 1085 232 1110 232H1150" stroke="#FFA414" stroke-width="5" stroke-linecap="round"/>
+<path d="M810 316H853V300H900V330H947V300H994V316H1041V294H1088V316H1150" stroke="#D9A13F" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="1150" cy="70" r="6" fill="#4C7DFF"/><circle cx="1150" cy="118" r="6" fill="#E8FF86"/><circle cx="1150" cy="232" r="6" fill="#FFA414"/><circle cx="1150" cy="316" r="6" fill="#D9A13F"/>
+</svg>
