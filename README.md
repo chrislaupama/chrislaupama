@@ -1,10 +1,32 @@
-<a href="https://www.chrislaupama.com"><img src="assets/header.svg" width="1200" alt="Chris Laupama — Sound. Software. Forward motion. Saine, Nota, and RISN."></a>
+<a href="https://www.chrislaupama.com"><img src="assets/header.svg" width="1200" alt="Chris Laupama — Sound. Software. Forward motion. Device, RISN, Saine, and Nota."></a>
 
 I'm Chris. I build music software, explore what AI can do inside creative tools, and work on making training easier to stick with.
 
 ## On my workbench
 
 <table>
+  <tr>
+    <td width="42%" valign="middle">
+      <sub>DESKTOP MUSIC STUDIO · PRE-ALPHA</sub>
+      <h3><a href="https://github.com/chrislaupama/device">Device ↗</a></h3>
+      <p>An open-source studio built for real time. A C++ engine, a GPU-drawn Rust interface, and AU, VST3, and CLAP plugins on macOS, Windows, and Linux.</p>
+      <p><a href="https://github.com/chrislaupama/device"><b>View the source →</b></a></p>
+    </td>
+    <td width="58%" valign="middle">
+      <a href="https://github.com/chrislaupama/device"><img src="assets/device-studio.png" width="580" alt="Device Studio's timeline with automation lanes over audio, instrument, and master tracks, and the built-in Synth's oscillators below."></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" valign="middle">
+      <sub>TRAINING &amp; COMMUNITY · IN TESTING</sub>
+      <h3><a href="https://risn.app/">RISN ↗</a></h3>
+      <p>Strength, running, and walking with a plan. Progression for your next session and clubs that keep you showing up. iPhone first.</p>
+      <p><a href="https://risn.app/"><b>Join early access →</b></a></p>
+    </td>
+    <td width="58%" valign="middle">
+      <a href="https://risn.app/"><img src="assets/risn.png" width="580" alt="RISN's black wordmark on its signature lime background."></a>
+    </td>
+  </tr>
   <tr>
     <td width="42%" valign="middle">
       <sub>BROWSER MUSIC STUDIO · ALPHA</sub>
@@ -24,18 +46,7 @@ I'm Chris. I build music software, explore what AI can do inside creative tools,
       <p><a href="https://github.com/nota-daw/nota"><b>My work on Nota →</b></a><br><a href="https://github.com/nota-daw/nota">Upstream project</a> · <a href="https://nota-daw.github.io/nota-site/">Explore Nota</a></p>
     </td>
     <td width="58%" valign="middle">
-      <a href="[https://github.com/chrislaupama/nota](https://github.com/nota-daw/nota)"><img src="assets/nota-studio-dark.webp" width="580" alt="Nota Studio Dark from my Studio update PR: arrangement, browser categories, synthesizer, and EQ."></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="42%" valign="middle">
-      <sub>TRAINING &amp; COMMUNITY · IN TESTING</sub>
-      <h3><a href="https://risn.app/">RISN ↗</a></h3>
-      <p>Strength, running, and walking with a plan. Progression for your next session and clubs that keep you showing up. iPhone first.</p>
-      <p><a href="https://risn.app/"><b>Join early access →</b></a></p>
-    </td>
-    <td width="58%" valign="middle">
-      <a href="https://risn.app/"><img src="assets/risn.png" width="580" alt="RISN's black wordmark on its signature lime background."></a>
+      <a href="https://github.com/nota-daw/nota"><img src="assets/nota-studio-dark.webp" width="580" alt="Nota Studio Dark from my Studio update PR: arrangement, browser categories, synthesizer, and EQ."></a>
     </td>
   </tr>
 </table>
