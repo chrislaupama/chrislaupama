@@ -8,12 +8,12 @@ I'm Chris. I build music software, explore what AI can do inside creative tools,
   <tr>
     <td width="42%" valign="middle">
       <sub>DESKTOP MUSIC STUDIO · PRE-ALPHA</sub>
-      <h3><a href="https://github.com/chrislaupama/device">Device ↗</a></h3>
+      <h3><a href="https://github.com/devicedaw/device">Device ↗</a></h3>
       <p>An open-source studio built for real time. A C++ engine, a GPU-drawn Rust interface, and AU, VST3, and CLAP plugins on macOS, Windows, and Linux.</p>
-      <p><a href="https://github.com/chrislaupama/device"><b>View the source →</b></a></p>
+      <p><a href="https://github.com/devicedaw/device"><b>View the source →</b></a></p>
     </td>
     <td width="58%" valign="middle">
-      <a href="https://github.com/chrislaupama/device"><img src="assets/device-studio.png" width="580" alt="Device Studio's timeline with automation lanes over audio, instrument, and master tracks, and the built-in Synth's oscillators below."></a>
+      <a href="https://github.com/devicedaw/device"><img src="assets/device-studio.png" width="580" alt="Device Studio's timeline with automation lanes over audio, instrument, and master tracks, and the built-in Synth's oscillators below."></a>
     </td>
   </tr>
   <tr>
